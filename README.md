@@ -17,4 +17,4 @@ Corrected datatypes:
 → Converted Order Date and Ship Date to datetime.
 → Converted categorical columns (e.g., Segment, Region, Ship Mode) to category type.
 → Ensured numerical columns (Sales, Profit, Discount) were correctly set as floats.
-Performed EDA & Visualizations based on Univariate,Bivariate and Multivariate Analysis for better deep-dive analysis and developed Key insights.
+Performed EDA & Visualizations based on Univariate,Bivariate and Multivariate Analysis for better deep-dive analysis and developing Key insights.
